@@ -1,1 +1,3 @@
-# This repository contains solutions to the QBronze Workshop exercises
+# QBronze-Workshop
+
+This repository contains solutions to the QBronze Workshop exercises
